@@ -1,10 +1,4 @@
-![sky island banner](https://debug-blog.jolchawa.site/projects/houdini-sky-islands/sky_island_banner.png)
-![sky island banner](https://i.pinimg.com/originals/2d/1e/8b/2d1e8b2d9f918d0f8a4cf19ac2210ce6.gif)
-
-
-![sky island banner](https://github.com/d0ggowo/debug-blog.jolchawa.site/blob/main/projects/houdini-sky-islands/island_making.gif)
-
-
+![sky island banner](https://github.com/d0ggowo/debug-blog.jolchawa.site/blob/main/projects/houdini-sky-islands/sky_island_banner.png)
 **Tags:** Procedural Mesh  
 **Software:** Houdini, Unreal Engine
 **Project Total Time:** 2 weeks
@@ -19,7 +13,7 @@ To create this tool I used Houdini for its logic of procedural generation based 
 
 # Final Result
 
-![sky island banner][https://debug-blog.jolchawa.site/projects/houdini-sky-islands/island_making.gif]
+![sky island banner](https://github.com/d0ggowo/debug-blog.jolchawa.site/blob/main/projects/houdini-sky-islands/island_making.gif)
 
 
 ---
